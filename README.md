@@ -50,6 +50,10 @@ Developed a system predicting web series ratings with **85% accuracy** using ML 
 Implemented ML/DL models achieving **95% accuracy** in classifying lung cancer types.  
 *Enhanced early diagnosis through data preprocessing and model training.*  
 
+### 🗳️ Student Voting Web Application (Java Project)  
+Created a secure voting platform using **Java, JSP, Servlets, and MySQL** that processed 1,000+ votes.  
+*Implemented OTP-based authentication, RBAC, and dynamic result visualization with Eclipse IDE & Tomcat.*  
+
 ---
 
 ## 🏆 Achievements  
@@ -57,15 +61,15 @@ Implemented ML/DL models achieving **95% accuracy** in classifying lung cancer t
 - 📜 Published **IEEE Research Paper** on OTT Web Series Rating Analysis  
 - 🎯 Completed multiple **Job Simulations** on Forage with **Verizon, Tata Group, Deloitte, and Datacom**  
 - 🥇 Certifications in **Backend Development (Node.js & JavaScript)** by Microsoft & Google Student Clubs  
-- 🧑‍💻 Solved **50+ LeetCode DSA problems** and active on Codeforces/CodeChef  
-
+- 🧑‍💻 Solved **50+ LeetC**
+  
 ---
 
 ## 📫 Connect with Me  
 
-🌐 Portfolio/Website: *[Add your link here]*  
-💼 LinkedIn: [linkedin.com/in/your-username](https://linkedin.com/)  
-📧 Email: *your.email@example.com*  
+🌐 Portfolio: Currently in progress.....  
+💼 LinkedIn: https://www.linkedin.com/in/nikhil-kumar-67b95a256
+📧 Email: nk8201059@gmail.com  
 
 ---
 
