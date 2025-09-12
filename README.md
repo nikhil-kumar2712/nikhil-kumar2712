@@ -43,7 +43,7 @@ Full-stack travel website with **500+ daily bookings** using React.js, Node.js, 
 *Delivered seamless trip planning with responsive UI and robust backend.*  
 
 ### 🎬 Web Series Rating Analysis (IEEE Published)  
-Developed a system predicting web series ratings with **85% accuracy** using ML models.  
+Developed a web-based system with interactive charts to analyze and visualize factors influencing web series ratings.  
 *Created Tableau visualizations and published findings in an IEEE research paper.*  
 
 ### 🩺 Lung Cancer Detection System  
