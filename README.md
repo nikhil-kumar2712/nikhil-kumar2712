@@ -38,7 +38,7 @@ Machine Learning, Deep Learning, NLP, Data Cleaning, Data Visualization, Data Wa
 AI-based traffic control system using **YOLOv5** for real-time vehicle detection and signal automation.  
 *Reduced congestion by 20% through automated signal optimization.*  
 
-### 🌍 WETravellers – Travel Agency Website  
+### 🌍 VTravellers – Travel Agency Website  
 Full-stack travel website with **500+ daily bookings** using React.js, Node.js, and MongoDB.  
 *Delivered seamless trip planning with responsive UI and robust backend.*  
 
