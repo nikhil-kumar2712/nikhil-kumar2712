@@ -75,8 +75,8 @@ Created a secure voting platform using **Java, JSP, Servlets, and MySQL** that p
 
 ## 📫 Connect with Me  
 
-🌐 Portfolio: Currently in progress.....
-💼 LinkedIn: https://www.linkedin.com/in/nikhil-kumar-67b95a256
+🌐 Portfolio: Currently in progress.....<br/>
+💼 LinkedIn: https://www.linkedin.com/in/nikhil-kumar-67b95a256<br/>
 📧 Email: nk8201059@gmail.com  
 
 ---
