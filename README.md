@@ -65,15 +65,13 @@ Created a secure voting platform using **Java, JSP, Servlets, and MySQL** that p
   
 ---
 
-<h2 align="center">📊 GitHub Stats:</h2>
+# 📊 GitHub Stats:
 
-<div align="center">
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhil-kumar2712&theme=dark&hide_border=false)
+![GitHub streak](https://streak-stats.demolab.com?user=nikhil-kumar2712&theme=dark&hide_border=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil-kumar2712&theme=dark&hide_border=false&layout=compact)
 
-  <img src="https://github-readme-stats.vercel.app/api?username=nikhil-kumar2712&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="180em" />
-  <img src="https://streak-stats.demolab.com?user=nikhil-kumar2712&theme=dark&hide_border=false" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil-kumar2712&theme=dark&hide_border=false&layout=compact" height="180em" />
-
-</div>
+---
 
 ## 📫 Connect with Me  
 
